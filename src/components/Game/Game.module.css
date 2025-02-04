@@ -1,0 +1,10 @@
+.gameContainer {
+  width: 100%;
+  max-width: 480px;
+  margin: 40px auto;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid #ddd;
+  border-radius: 6px;
+  background-color: #fafafa;
+}
